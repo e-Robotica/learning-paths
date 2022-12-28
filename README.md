@@ -1,2 +1,2 @@
 # learning-paths
-Learning paths to ROS and robotic related subjects
+Learning paths to ROS and robotics related subjects
